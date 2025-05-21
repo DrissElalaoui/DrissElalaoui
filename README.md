@@ -1,7 +1,9 @@
-# 👋 Hi, I’m Driss Elalaoui
+# Bienvenue dans Readem.rm !
 
+Bienvenue dans ce projet !  
+Nous sommes ravis de vous accueillir ici.
 
-<!---
-DrissElalaoui/DrissElalaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ce projet a été conçu pour [explique brièvement l’objectif du projet].  
+N’hésitez pas à explorer, contribuer et poser vos questions.
+
+Merci de votre intérêt et bonne découverte ! 🚀
