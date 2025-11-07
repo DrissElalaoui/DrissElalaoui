@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=drisselaloui&color=blue" alt="Profile Views"/>
 
-# Salut, Ana Ghi4 **Driss Elaloui** 👋  
+# Salut, I'm **Driss Elaloui** 👋  
 Passionné par le développement web et la programmation en général 💻🚀
 
 ---
@@ -10,7 +10,7 @@ Passionné par le développement web et la programmation en général 💻🚀
 ### 🌐 Développement Web  
 - **HTML5** & **CSS3** (Responsive Design, Flexbox, Grid)  
 - **JavaScript** (ES6+, DOM, AJAX)  
-- **PHP** (Backend, API REST)  
+- **PHP** (Backend, API REST) 
 - **React.js** (Composants, Hooks, State management)  
 
 ### 🖥️ Programmation système & Logiciels  
